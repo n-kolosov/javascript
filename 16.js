@@ -1,3 +1,4 @@
+'use strict';
 let n = +prompt("Укажите число:", '');
 
 function fibonacci(n) {
